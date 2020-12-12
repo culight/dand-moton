@@ -1,0 +1,8 @@
+# database
+.db/
+
+# data files
+.data/
+
+# csv files
+.csv/
