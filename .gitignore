@@ -1,0 +1,11 @@
+# ignore python ancillary files
+*.pyc
+
+# ignore data files
+*.csv
+*.png
+*.txt
+
+# ignore other files
+*.bak
+*.pkl
