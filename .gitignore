@@ -3,7 +3,6 @@
 
 # ignore data files
 *.csv
-*.png
 *.txt
 
 # ignore other files
